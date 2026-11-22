@@ -1,4 +1,4 @@
-# Auto Insurance Claims Analysis Dashboard
+# Auto Insurance Claims Analysis 
 
 ## Business Problem
 An insurer needs to know where claims come from, what they cost and where fraud-flagged claims concentrate. This project cleans the claims data in Python and presents the answers in a 4-page Power BI dashboard.
