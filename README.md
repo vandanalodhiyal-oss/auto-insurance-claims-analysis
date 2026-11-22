@@ -25,19 +25,19 @@ An insurer needs to know where claims come from, what they cost and where fraud-
 ## Dashboard (Power BI)
 
 ### 1. Home
-![Home Dashboard](Home page.jpeg)
+![Home Dashboard](Home%20page.jpeg)
 Title, purpose and page navigation.
 
 ### 2. Overview
-![Overview Dashboard](Overview page.jpeg)
+![Overview Dashboard](Overview%20page.jpeg)
 KPI cards, fraud split, claims by incident type, severity and day of week.
 
 ### 3. Claims Analysis
-![Claims Analysis Dashboard](Claims Analysis page.jpeg)
+![Claims Analysis Dashboard](Claims%20Analysis%20page.jpeg)
 Average claim by incident type, claim amount split, claims by age group, total amount by state.
 
 ### 4. Fraud & Insights
-![Fraud & Insights Dashboard](Fraud & Insights page.jpeg)
+![Fraud & Insights Dashboard](Fraud%20&%20Insights%20page.jpeg)
 Fraud % by incident type, severity, police report and age group, plus insights and recommendations.
 
 
